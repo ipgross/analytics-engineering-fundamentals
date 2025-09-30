@@ -1,6 +1,6 @@
 # Analytics Engineering Fundamentals — StroopwafelShop Project
 
-⚡ **Note:** All work shown here is **personal / academic learning** completed outside of my role at Electronic Arts (EA).  
+⚡ **Note:** All work shown here is **personal / academic learning**.
 It reflects my independent learning and upskilling as I transition into **Analytics Engineering**.
 
 ---
